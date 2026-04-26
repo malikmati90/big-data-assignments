@@ -1,5 +1,6 @@
-pyarrow
-duckdb
+# pyarrow
+# duckdb
 pandas
 jupyter
 tqdm
+pyspark
